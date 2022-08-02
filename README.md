@@ -1,4 +1,4 @@
-# moreDOM-and-Events
+# moreDOM-and-Events 
 
 ## Instructions
 1. As we get further along in the curriculum, projects will become more and more open ended to accommodate your own ideas and ways of doing things. By now, you will have seen in programming there are often many ways of getting to a solution, and it’s only fair to allow you that space to explore on your own. With that said...keep up the great effort!
